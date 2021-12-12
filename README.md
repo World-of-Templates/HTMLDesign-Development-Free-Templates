@@ -156,6 +156,9 @@ ProApp |
 Free Responsive Landing Page Template |
 
 ## Admin Dashboard
-
+Dash | PLuto
+--- | ---
+[![Dash](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Dash.png)](https://template.fusionsvisual.id/HDD/Dash) | [![Pluto](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Pluto.png)](https://template.fusionsvisual.id/HDD/Pluto)
+Free Dashboard Backend HTML Template | Bootstrap Admin Dashboard Template
 
 ## Under Construction
