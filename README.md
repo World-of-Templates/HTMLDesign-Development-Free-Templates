@@ -135,7 +135,25 @@ SEOTime | Micrology
 Free SEO Company Responsive Website Template | Free Onepage Portfolio Website Template
 
 ## Mobile App
+Maker | Moto
+--- | ---
+[![Maker](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/MakerApp.png)](https://template.fusionsvisual.id/HDD/MakerApp) | [![Moto](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Moto.png)](https://template.fusionsvisual.id/HDD/Moto)
+Software Maker HTML Template | Free Mobile Application Template
 
+Potoub | Uxos
+--- | ---
+[![Putoub](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/PutoubApp.png)](https://template.fusionsvisual.id/HDD/PutoubApp) | [![Uxos](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Uxos.png)](https://template.fusionsvisual.id/HDD/Uxos)
+Free Software HTML Template | Mobile App HTML Template
+
+Blueneek | Auricle
+--- | ---
+[![Blueneek](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/BlueneekApp.png)](https://template.fusionsvisual.id/HDD/BlueneekApp) | [![Auricle](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Auricle.png)](https://template.fusionsvisual.id/HDD/Auricle)
+Web Services HTML Template | Free Mobile Web Application Template
+
+ProApp |
+--- |
+[![ProApp](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/ProApp.png)](https://template.fusionsvisual.id/HDD/ProApp) |
+Free Responsive Landing Page Template |
 
 ## Admin Dashboard
 
