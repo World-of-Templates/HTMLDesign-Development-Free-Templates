@@ -21,7 +21,7 @@ Free Web Hosting HTML Template | Free Hosting Template
 
 Data Web | Focus
 --- | ---
-[![Data Web](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/DataWeb.png)](https://template.fusionsvisual.id/HDD/DataWeb) | [![Focus](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Focus.png)](https://template.fusionsvisual.id/HDD/Focus)
+[![Data Web](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Dataweb.png)](https://template.fusionsvisual.id/HDD/DataWeb) | [![Focus](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Focus.png)](https://template.fusionsvisual.id/HDD/Focus)
 Hosting Website HTML Template | Web Hosting HTML Template
 
 Quick Cloud | Domain Buying
@@ -29,9 +29,9 @@ Quick Cloud | Domain Buying
 [![Quick Cloud](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/QuickCloud.png)](https://template.fusionsvisual.id/HDD/QuickCloud) | [![Domain Buying](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/DomainBuying.png)](https://template.fusionsvisual.id/HDD/DomainBuying)
 Free Hosting Responsive Website Template | Free Domain Sale Website Template
 
-Hostcloud |
+Housecloud |
 --- |
-[![Hostcloud](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Hostcloud.png)](https://template.fusionsvisual.id/HDD/Housecloud) |
+[![Hostcloud](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Housecloud.png)](https://template.fusionsvisual.id/HDD/Housecloud) |
 Free Hosting Responsive Bootstrap Template |
 
 ## Web Agency
@@ -62,7 +62,7 @@ Simple Web Agency Website Template | Free Digital Marketing HTML Template
 
 Seomark | Hightech
 --- | ---
-[![Seomark](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Seomark.png)](https://template.fusionsvisual.id/HDD/Seomark) | [![Hightech](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/HighTech.png)](https://template.fusionsvisual.id/HDD/HighTech)
+[![Seomark](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Seomark.png)](https://template.fusionsvisual.id/HDD/Seomark) | [![Hightech](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Hightech.png)](https://template.fusionsvisual.id/HDD/HighTech)
 Free SEO HTML Template | Free Web Agency Creative Website Template
 
 Goind | Fregg
@@ -120,11 +120,6 @@ Domain Buying | Dominic
 [![Domain Buying](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/DomainBuyingWeb.png)](https://template.fusionsvisual.id/HDD/DomainBuyingWeb) | [![Dominic](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Dominic.png)](https://template.fusionsvisual.id/HDD/Dominic)
 Free Domain Sale Website Template | Personal Portfolio OnePage Template
 
-FlaxSEO | Matilda
---- | ---
-[![FlaxSEO](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/FlaxSEO.png)](https://template.fusionsvisual.id/HDD/FlaxSEO) | [![Matilda](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Matilda.png)](https://template.fusionsvisual.id/HDD/Matilda)
-Free SEO, SMO, Marketing Website Template | Lifestyle Minimal Responsive Blog Template
-
 Genius | Tech Blog
 --- | ---
 [![Genius](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Genius.png)](https://template.fusionsvisual.id/HDD/Genius) | [![Tech Blog](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/TechBlog.png)](https://template.fusionsvisual.id/HDD/TechBlog)
@@ -135,6 +130,11 @@ SEOTime | Micrology
 [![SEOTime](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/SEOTime.png)](https://template.fusionsvisual.id/HDD/SEOTime) | [![Micrology](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Micrology.png)](https://template.fusionsvisual.id/HDD/Micrology)
 Free SEO Company Responsive Website Template | Free Onepage Portfolio Website Template
 
+FlaxSEO |
+--- |
+[![FlaxSEO](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/FlaxSEO.png)](https://template.fusionsvisual.id/HDD/FlaxSEO) |
+Free SEO, SMO, Marketing Website Template |
+
 ## Mobile App
 Maker | Moto
 --- | ---
@@ -143,7 +143,7 @@ Software Maker HTML Template | Free Mobile Application Template
 
 Potoub | Uxos
 --- | ---
-[![Putoub](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/PutoubApp.png)](https://template.fusionsvisual.id/HDD/PutoubApp) | [![Uxos](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Uxos.png)](https://template.fusionsvisual.id/HDD/Uxos)
+[![Putoub](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/PotoubApp.png)](https://template.fusionsvisual.id/HDD/PutoubApp) | [![Uxos](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Uxos.png)](https://template.fusionsvisual.id/HDD/Uxos)
 Free Software HTML Template | Mobile App HTML Template
 
 Blueneek | Auricle
