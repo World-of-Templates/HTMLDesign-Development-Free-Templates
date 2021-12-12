@@ -6,6 +6,7 @@
 - Mobile App
 - Admin Dashboard
 - Under Construction
+- Error Page
 
 ## Web Hosting
 Hosts | Techdor
@@ -171,3 +172,9 @@ Architects |
 --- |
 [![Architects](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Architects.png)](https://template.fusionsvisual.id/HDD/Architects) |
 Free Construction Website Responsive |
+
+## Error Page
+Errore |
+--- |
+[![Errore](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Errore.png)](https://template.fusionsvisual.id/HDD/Errore) |
+Error HTML Template |
