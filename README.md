@@ -156,9 +156,18 @@ ProApp |
 Free Responsive Landing Page Template |
 
 ## Admin Dashboard
-Dash | PLuto
+Dash | Pluto
 --- | ---
 [![Dash](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Dash.png)](https://template.fusionsvisual.id/HDD/Dash) | [![Pluto](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Pluto.png)](https://template.fusionsvisual.id/HDD/Pluto)
 Free Dashboard Backend HTML Template | Bootstrap Admin Dashboard Template
 
 ## Under Construction
+Our Consultancy | EPNWeb
+--- | ---
+[![Our Consultancy](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/OurConsultancy.png)](https://template.fusionsvisual.id/HDD/OurConsultancy) | [![EPNWeb](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/EPNWeb.png)](https://template.fusionsvisual.id/HDD/EPNWeb)
+Free Coming Soon Page Template | Free HTML5 Coming Soon Template
+
+Architects |
+--- |
+[![Architects](https://raw.githubusercontent.com/World-of-Templates/HTMLDesign-Development-Free-Templates/main/zSupportImages/Architects.png)](https://template.fusionsvisual.id/HDD/Architects) |
+Free Construction Website Responsive |
